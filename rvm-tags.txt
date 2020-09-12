@@ -1,0 +1,302 @@
+[
+  {
+    "name": "1.29.10",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.10",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.10",
+    "commit": {
+      "sha": "cc69ed9c377df6a6b01c095613719164fdf72882",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/cc69ed9c377df6a6b01c095613719164fdf72882"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjEw"
+  },
+  {
+    "name": "1.29.9",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.9",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.9",
+    "commit": {
+      "sha": "dcc35966d153a796fc0ad3664dc70622377e998c",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/dcc35966d153a796fc0ad3664dc70622377e998c"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5Ljk="
+  },
+  {
+    "name": "1.29.8",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.8",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.8",
+    "commit": {
+      "sha": "d507565d50644736d80f5a77a3c44507aa8000a4",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/d507565d50644736d80f5a77a3c44507aa8000a4"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5Ljg="
+  },
+  {
+    "name": "1.29.7",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.7",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.7",
+    "commit": {
+      "sha": "ee29bcd71d22b7a4cf8ef3b19c9f91d4e924a04a",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/ee29bcd71d22b7a4cf8ef3b19c9f91d4e924a04a"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5Ljc="
+  },
+  {
+    "name": "1.29.6",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.6",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.6",
+    "commit": {
+      "sha": "e189d650f68e914c7890fa3306293b064463b213",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/e189d650f68e914c7890fa3306293b064463b213"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjY="
+  },
+  {
+    "name": "1.29.5",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.5",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.5",
+    "commit": {
+      "sha": "587556ffb80bad5f4e8ea3de590b753e8940c55f",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/587556ffb80bad5f4e8ea3de590b753e8940c55f"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjU="
+  },
+  {
+    "name": "1.29.4",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.4",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.4",
+    "commit": {
+      "sha": "75ebc039b8edf2814e4f71d4c1bd161866653e6d",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/75ebc039b8edf2814e4f71d4c1bd161866653e6d"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjQ="
+  },
+  {
+    "name": "1.29.3",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.3",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.3",
+    "commit": {
+      "sha": "ad6e58e3c7dab0360a113e88a60d2391387925ba",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/ad6e58e3c7dab0360a113e88a60d2391387925ba"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjM="
+  },
+  {
+    "name": "1.29.2",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.2",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.2",
+    "commit": {
+      "sha": "9fc00b4e9debee956698cf3391f583fc4ff5c7f6",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/9fc00b4e9debee956698cf3391f583fc4ff5c7f6"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjI="
+  },
+  {
+    "name": "1.29.1",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.1",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.1",
+    "commit": {
+      "sha": "9e36f2a97cb567456c3bcf4c51b08ac96282b533",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/9e36f2a97cb567456c3bcf4c51b08ac96282b533"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjE="
+  },
+  {
+    "name": "1.29.0",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.0",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.0",
+    "commit": {
+      "sha": "017b83d67af6c6c6a9a002f1ed2afd4d5adf387e",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/017b83d67af6c6c6a9a002f1ed2afd4d5adf387e"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjA="
+  },
+  {
+    "name": "1.28.0",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.28.0",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.28.0",
+    "commit": {
+      "sha": "94ee2776fc2d116b07d21a7670ad241bbc08c98f",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/94ee2776fc2d116b07d21a7670ad241bbc08c98f"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI4LjA="
+  },
+  {
+    "name": "1.27.0",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.27.0",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.27.0",
+    "commit": {
+      "sha": "cab08d4674ce0883af9ed385ab19b346dbf71e4d",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/cab08d4674ce0883af9ed385ab19b346dbf71e4d"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI3LjA="
+  },
+  {
+    "name": "1.26.11",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.11",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.11",
+    "commit": {
+      "sha": "fb431abb13a29a05a5552b5e6e902cdcc27ee5d5",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/fb431abb13a29a05a5552b5e6e902cdcc27ee5d5"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjEx"
+  },
+  {
+    "name": "1.26.10",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.10",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.10",
+    "commit": {
+      "sha": "2fa5f1b5a64734890287257a37ab3f7ee506178a",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/2fa5f1b5a64734890287257a37ab3f7ee506178a"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjEw"
+  },
+  {
+    "name": "1.26.9",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.9",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.9",
+    "commit": {
+      "sha": "a139699022e482fe44b88ce07632627b90583706",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/a139699022e482fe44b88ce07632627b90583706"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2Ljk="
+  },
+  {
+    "name": "1.26.8",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.8",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.8",
+    "commit": {
+      "sha": "d89a1701bbb5935fd3e1b5940f329d8b9b3ea388",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/d89a1701bbb5935fd3e1b5940f329d8b9b3ea388"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2Ljg="
+  },
+  {
+    "name": "1.26.7",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.7",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.7",
+    "commit": {
+      "sha": "4e8687814ca989790a9ccd959005aeb06271a2c8",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/4e8687814ca989790a9ccd959005aeb06271a2c8"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2Ljc="
+  },
+  {
+    "name": "1.26.6",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.6",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.6",
+    "commit": {
+      "sha": "1f7123930a59cd0ca0134169f450ec2d4e06225a",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/1f7123930a59cd0ca0134169f450ec2d4e06225a"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjY="
+  },
+  {
+    "name": "1.26.5",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.5",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.5",
+    "commit": {
+      "sha": "389236b53479e903ba95a292ca709773b265d50e",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/389236b53479e903ba95a292ca709773b265d50e"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjU="
+  },
+  {
+    "name": "1.26.4",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.4",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.4",
+    "commit": {
+      "sha": "1e8e6f96b654598c785f22daefafb947b281a6d1",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/1e8e6f96b654598c785f22daefafb947b281a6d1"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjQ="
+  },
+  {
+    "name": "1.26.3",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.3",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.3",
+    "commit": {
+      "sha": "1546290051557a842e2934d64bd87ae18cd8381c",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/1546290051557a842e2934d64bd87ae18cd8381c"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjM="
+  },
+  {
+    "name": "1.26.2",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.2",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.2",
+    "commit": {
+      "sha": "f688087004b35b688bb577ed846c2a5a372765d5",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/f688087004b35b688bb577ed846c2a5a372765d5"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjI="
+  },
+  {
+    "name": "1.26.1",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.1",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.1",
+    "commit": {
+      "sha": "3c92ab7e59dadcd7861464e96f9949fd59c63a55",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/3c92ab7e59dadcd7861464e96f9949fd59c63a55"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjE="
+  },
+  {
+    "name": "1.26.0",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.26.0",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.26.0",
+    "commit": {
+      "sha": "d7beda3a5c63f814c5ae87dc55611a8fd944293d",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/d7beda3a5c63f814c5ae87dc55611a8fd944293d"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI2LjA="
+  },
+  {
+    "name": "1.25.34",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.25.34",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.25.34",
+    "commit": {
+      "sha": "e9df3a6d781ba829c7ac7a4f9386a0d1e9883337",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/e9df3a6d781ba829c7ac7a4f9386a0d1e9883337"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjM0"
+  },
+  {
+    "name": "1.25.33",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.25.33",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.25.33",
+    "commit": {
+      "sha": "73f848607f23f650b4a016cc6f85a626b52fb9ed",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/73f848607f23f650b4a016cc6f85a626b52fb9ed"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjMz"
+  },
+  {
+    "name": "1.25.32",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.25.32",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.25.32",
+    "commit": {
+      "sha": "6e9e8a9619f705780232b4ed238941635a48c13a",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/6e9e8a9619f705780232b4ed238941635a48c13a"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjMy"
+  },
+  {
+    "name": "1.25.31",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.25.31",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.25.31",
+    "commit": {
+      "sha": "ba3636dd2334dfee282f64160e046c08b20055bd",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/ba3636dd2334dfee282f64160e046c08b20055bd"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjMx"
+  },
+  {
+    "name": "1.25.30",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.25.30",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.25.30",
+    "commit": {
+      "sha": "83eed6c7e6f77a03fcecea49ee4f62e4246448b6",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/83eed6c7e6f77a03fcecea49ee4f62e4246448b6"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjMw"
+  }
+]
