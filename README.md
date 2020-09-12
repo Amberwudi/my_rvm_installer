@@ -1,16 +1,28 @@
-# my_rvm_installer
+# My Rvm Installer
 
 Speed up the rvm installation for me.
 
 ## Usages
 
 ```bash
-# install the rvm in my way
-gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
-curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.txt | bash -s stable
-# backup
-curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt | bash -s stable
+# Install the rvm in my way
+
+# step1
+## get the rsa keys
+$ gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+
+# step2
+## original way
+$ \curl -sSL https://get.rvm.io | bash -s stable
+
+## my way
+$ \curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.txt | bash -s stable
+### backup for my way
+$ \curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt | bash -s stable
 ```
+
+## Current Rvm Version
+1.29.10 (updated_at 2020-09-13 04:26:15)
 
 ## Source Bash Scripts
 
