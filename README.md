@@ -2,6 +2,8 @@
 
 Speed up the rvm installation for me.
 
+`I am a Chinese. I live in China. I love China.`
+
 ## Usages
 
 ```bash
