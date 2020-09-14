@@ -21,8 +21,13 @@ $ \curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-insta
 $ \curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt | bash -s stable
 ```
 
-## Current Rvm Version
-1.29.10 (updated_at 2020-09-13 04:26:15)
+## Supported Rvm Versions
+
+latest version: 1.29.10 
+
+supported versions: [1.25.34, 1.29.10]
+
+(updated_at 2020-09-14 18:52)
 
 ## Source Bash Scripts
 
