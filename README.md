@@ -56,6 +56,10 @@ verfiy_pgp_url: http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/1.29.1
 
 ### `bitbucket.org`
 
+#### list
+https://bitbucket.org/mpapis/rvm/downloads/?tab=tags
+https://bitbucket.org/mpapis/rvm/downloads/?tab=downloads
+
 #### template
 
 package_url: `https://bitbucket.org/mpapis/rvm/get/${_version}.tar.gz`
@@ -69,6 +73,10 @@ package_url: https://bitbucket.org/mpapis/rvm/get/1.29.10.tar.gz
 verfiy_pgp_url: https://bitbucket.org/mpapis/rvm/downloads/1.29.10.tar.gz.asc
 
 ### `github.com`
+
+#### list
+https://github.com/rvm/rvm/tags
+https://github.com/rvm/rvm/releases
 
 #### template
 
