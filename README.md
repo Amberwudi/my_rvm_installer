@@ -18,6 +18,8 @@ $ gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D
 $ \curl -sSL https://get.rvm.io | bash -s stable
 
 ## my way
+$ \curl -sSL http://qiniu.forqian.cn/rvm-installer.txt | bash -s stable
+### backup for may way
 $ \curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.txt | bash -s stable
 ### backup for my way
 $ \curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt | bash -s stable
@@ -29,13 +31,15 @@ latest version: 1.29.10
 
 supported versions: [1.25.34, 1.29.10]
 
-(updated_at 2020-09-14 18:52)
+(updated_at 2020-09-26 20:49)
 
 ## Source Bash Scripts
 
 ### `qiniu.forqian.cn`
 
-url: http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.txt
+url: http://qiniu.forqian.cn/rvm-installer.txt
+
+backup_url: http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.txt
 
 backup_url: https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt
 
