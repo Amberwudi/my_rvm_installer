@@ -27,6 +27,8 @@ $ \curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-insta
 $ \curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.sh | bash -s stable
 ### backup for my way
 $ \curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt | bash -s stable
+### backup for my way
+$ \curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.sh | bash -s stable
 ```
 
 ## Supported Rvm Versions
@@ -51,6 +53,7 @@ backup_url: http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-instal
 
 backup_url: https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt
 
+backup_url: https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.sh
 ### `github.com`
 
 https://raw.githubusercontent.com/rvm/rvm/master/binscripts/rvm-installer
