@@ -43,7 +43,11 @@ supported versions: [1.25.34, 1.29.10]
 
 url: http://qiniu.forqian.cn/rvm-installer.txt
 
+backup_url: http://qiniu.forqian.cn/rvm-installer.sh
+
 backup_url: http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.txt
+
+backup_url: http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.sh
 
 backup_url: https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt
 
