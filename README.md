@@ -19,15 +19,19 @@ $ \curl -sSL https://get.rvm.io | bash -s stable
 
 ## my way
 $ \curl -sSL http://qiniu.forqian.cn/rvm-installer.txt | bash -s stable
+### backup for my way
+$ \curl -sSL http://qiniu.forqian.cn/rvm-installer.sh | bash -s stable
 ### backup for may way
 $ \curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.txt | bash -s stable
+### backup for my way
+$ \curl -sSL http://qiniu.forqian.cn/blue_dream_tools/my_rvm_installer/rvm-installer.sh | bash -s stable
 ### backup for my way
 $ \curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-installer.txt | bash -s stable
 ```
 
 ## Supported Rvm Versions
 
-latest version: 1.29.10 
+latest version: 1.29.10
 
 supported versions: [1.25.34, 1.29.10]
 
