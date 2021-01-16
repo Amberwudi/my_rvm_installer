@@ -33,11 +33,11 @@ $ \curl -sSL https://gitee.com/blue_dream_tools/my_rvm_installer/raw/master/rvm-
 
 ## Supported Rvm Versions
 
-latest version: 1.29.10
+latest version: 1.29.12
 
-supported versions: [1.25.34, 1.29.10]
+supported versions: [1.25.34, 1.29.12]
 
-(updated_at 2020-09-26 20:49)
+(updated_at 2021-01-16 23:00)
 
 ## Source Bash Scripts
 

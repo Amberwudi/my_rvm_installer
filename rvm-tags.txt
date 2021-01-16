@@ -1,5 +1,25 @@
 [
   {
+    "name": "1.29.12",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.12",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.12",
+    "commit": {
+      "sha": "6bfc9213c9d6914fe756f524eb034a403d51db81",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/6bfc9213c9d6914fe756f524eb034a403d51db81"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjEy"
+  },
+  {
+    "name": "1.29.11",
+    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.11",
+    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.11",
+    "commit": {
+      "sha": "e55c4928953144728e727a62b3050d4a6feea257",
+      "url": "https://api.github.com/repos/rvm/rvm/commits/e55c4928953144728e727a62b3050d4a6feea257"
+    },
+    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI5LjEx"
+  },
+  {
     "name": "1.29.10",
     "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.29.10",
     "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.29.10",
@@ -278,25 +298,5 @@
       "url": "https://api.github.com/repos/rvm/rvm/commits/6e9e8a9619f705780232b4ed238941635a48c13a"
     },
     "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjMy"
-  },
-  {
-    "name": "1.25.31",
-    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.25.31",
-    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.25.31",
-    "commit": {
-      "sha": "ba3636dd2334dfee282f64160e046c08b20055bd",
-      "url": "https://api.github.com/repos/rvm/rvm/commits/ba3636dd2334dfee282f64160e046c08b20055bd"
-    },
-    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjMx"
-  },
-  {
-    "name": "1.25.30",
-    "zipball_url": "https://api.github.com/repos/rvm/rvm/zipball/1.25.30",
-    "tarball_url": "https://api.github.com/repos/rvm/rvm/tarball/1.25.30",
-    "commit": {
-      "sha": "83eed6c7e6f77a03fcecea49ee4f62e4246448b6",
-      "url": "https://api.github.com/repos/rvm/rvm/commits/83eed6c7e6f77a03fcecea49ee4f62e4246448b6"
-    },
-    "node_id": "MDM6UmVmMjg2MDY2OnJlZnMvdGFncy8xLjI1LjMw"
   }
 ]
